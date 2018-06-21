@@ -28,3 +28,5 @@ set autowrite
 set hidden
 set expandtab
 set softtabstop=4
+set sw=4
+set cindent
